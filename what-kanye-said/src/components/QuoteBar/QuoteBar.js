@@ -4,7 +4,13 @@ export default function QuoteBar() {
 
     return (
         <div className="quote-box">
-            <p>This is where the quote goes from the API</p>
+            <div className="quote">
+                <h1>This is where the quote goes from the API</h1>
+            </div>
+            <div className="kanye-name">
+                <h2>- Kanye West</h2>
+            </div>
         </div>
+        
     );
 }
