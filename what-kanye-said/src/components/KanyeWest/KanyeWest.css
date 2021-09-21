@@ -1,0 +1,15 @@
+
+.kanye-thought {
+    display: flex;
+    margin: 20px 40px;
+}
+.kanye-pic {
+    display: flex;
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000000;
+    border-radius: 50%;
+    position: relative;
+    left: 100px;
+}
