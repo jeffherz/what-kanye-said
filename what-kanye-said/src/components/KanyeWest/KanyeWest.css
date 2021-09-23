@@ -2,6 +2,7 @@
 .kanye-thought {
     display: flex;
     margin: 20px 40px;
+    justify-content: center;
 }
 .kanye-pic {
     display: flex;
@@ -11,5 +12,5 @@
     border: 1px solid #000000;
     border-radius: 50%;
     position: relative;
-    left: 100px;
+    left: 20%;
 }

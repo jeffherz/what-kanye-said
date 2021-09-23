@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import KanyeWest from './components/KanyeWest/KanyeWest';
 import QuoteBar from './components/QuoteBar/QuoteBar';
